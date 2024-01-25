@@ -7,5 +7,16 @@
     "id": 1,
     "name": "John Doe",
     "email": "john.doe@example.com"
+  },
+  "help": {
+    "Emergency": "911",
+    "Suicide & Crisis Lifeline": "Call or text 988",
+    "National Domestic Violence Hotline": "1-800-799-7233",
+    "Crisis Text Line": "Text `DESERVE` TO 741-741",
+    "Lifeline Crisis Chat": "https://988lifeline.org/chat",
+    "Self-Harm Hotline": "1-800-DONT CUT (1-800-366-8288)",
+    "Planned Parenthood Hotline": "1-800-230-PLAN (7526)",
+    "TREVOR Crisis Hotline": "1-866-488-7386",
+    "AIDS Crisis Line": "1-800-221-7044",
   }
 }
